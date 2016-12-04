@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TareaCourseraMascotas</string>
+    <string name="pnombre">nombre</string>
+    <string name="pcant">0</string>
+</resources>
